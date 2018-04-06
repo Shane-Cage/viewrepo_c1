@@ -1,0 +1,2 @@
+repo_d1 https://github.com/Shane-Cage/repo_d1.git GIT master HEAD
+repo_d2 https://github.com/Shane-Cage/repo_d2.git GIT master HEAD
